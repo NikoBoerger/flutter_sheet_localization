@@ -10,7 +10,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter 
-  template_string: ^0.6.0
+  template_string:
+    git:
+      url: https://github.com/NikoBoerger/flutter_sheet_localization.git
+      ref: master
+      path: template_string
   recase: ^4.0.0
   yaml: ^3.1.0
   equatable: ^2.0.0
