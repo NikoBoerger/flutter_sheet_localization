@@ -2,6 +2,7 @@ name: localization_builder
 description: A data class builder for localization.
 homepage: https://github.com/aloisdeniel/flutter_sheet_localization
 version: 0.15.8
+publish_to: none
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
@@ -10,7 +11,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter 
-  template_string: ^0.6.0
+  template_string:
+    git:
+      url: https://github.com/NikoBoerger/flutter_sheet_localization.git
+      ref: master
+      path: template_string
   recase: ^4.1.0
   yaml: ^3.1.2
   equatable: ^2.0.5
