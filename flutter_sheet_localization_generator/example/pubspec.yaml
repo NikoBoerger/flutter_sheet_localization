@@ -14,7 +14,7 @@ description: A new Flutter project.
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=2.12.0 <4.0.0"
 
 dependencies:
   flutter_sheet_localization:
@@ -26,13 +26,16 @@ dependencies:
     sdk: flutter
   flutter:
     sdk: flutter 
-  cupertino_icons: ^1.0.5
-  intl: ^0.18.0
+  cupertino_icons: ^1.0.8
+  intl: ^0.20.1
+
+dependency_overrides:
+  intl: ^0.20.1
 
 dev_dependencies: 
   flutter_test:
     sdk: flutter
-  build_runner: ^2.0.0
+  build_runner: ^2.4.14
   flutter_sheet_localization_generator:
     git:
       url: https://github.com/NikoBoerger/flutter_sheet_localization.git
