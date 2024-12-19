@@ -62,12 +62,12 @@ class SheetLocalizationGenerator
     final url =
         'https://docs.google.com/spreadsheets/d/$documentId/export?format=csv&id=$documentId&gid=$sheetId';
 
-    log.info('Downloading csv from Google sheet url "$url" ...');
+    print('Downloading csv from Google sheet url "$url" ...');
 
     var response = await http
         .get(Uri.parse(url), headers: {'accept': 'text/csv;charset=UTF-8'});
 
-    log.fine('Google sheet csv:\n ${response.body}');
+    print('Google sheet csv:\n ${response.body}');
 
     final bytes = response.bodyBytes.toList();
     final csv = Stream<List<int>>.fromIterable([bytes]);

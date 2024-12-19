@@ -1,3 +1,5 @@
+import 'dart:io';
+
 import 'package:dart_style/dart_style.dart';
 import 'package:localization_builder/src/definitions/category.dart';
 import 'package:localization_builder/src/definitions/condition.dart';
@@ -6,6 +8,7 @@ import 'package:localization_builder/src/definitions/section.dart';
 import 'package:localization_builder/src/definitions/translation.dart';
 import 'package:localization_builder/src/generators/builders/base.dart';
 import 'package:localization_builder/src/generators/builders/property.dart';
+import 'package:pub_semver/pub_semver.dart';
 
 import 'builders/argument.dart';
 import 'builders/data_class.dart';
@@ -43,7 +46,8 @@ import 'package:template_string/template_string.dart';
       ],
       localizations,
     );
-    return DartFormatter().format(_buffer.toString());
+    final dartVersion = Platform.version.split(' ')[0];
+    return DartFormatter(languageVersion: Version.parse(dartVersion)).format(_buffer.toString());
   }
 
   void _createLocalization(List<String> path, Localizations localizations) {
