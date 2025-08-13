@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter 
   http: ^1.2.2
-  meta: 1.15.0
+  meta: 1.16.0
   csv: ^6.0.0
   recase: ^4.1.0
   code_builder: ^4.10.1
