@@ -16,7 +16,7 @@ dependencies:
   csv: ^6.0.0
   recase: ^4.1.0
   code_builder: ^4.10.1
-  dart_style: ^3.1.2
+  dart_style: 3.1.0
   source_gen: ^3.1.0
   flutter_sheet_localization:
     git:
@@ -24,13 +24,13 @@ dependencies:
       ref: master
       path: flutter_sheet_localization
   build: ^3.0.2
-  analyzer: ^8.1.1
+  analyzer: 7.5.5
   collection: ^1.19.0
   intl: ^0.20.2
   localization_builder:
     git:
       url: https://github.com/NikoBoerger/flutter_sheet_localization.git
-      ref: 0d54fc8b
+      ref: master
       path: localization_builder
 
 dev_dependencies:
