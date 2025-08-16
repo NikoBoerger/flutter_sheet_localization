@@ -5,22 +5,13 @@
         <entry key="_fe_analyzer_shared">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-76.0.0/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-88.0.0/lib" />
-            </list>
-          </value>
-        </entry>
-        <entry key="_macros">
-          <value>
-            <list>
-              <option value="$USER_HOME$/development/flutter/bin/cache/dart-sdk/pkg/_macros/lib" />
             </list>
           </value>
         </entry>
         <entry key="analyzer">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/analyzer-6.11.0/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/analyzer-8.1.1/lib" />
             </list>
           </value>
@@ -49,14 +40,14 @@
         <entry key="build">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/build-2.5.4/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/build-3.0.2/lib" />
             </list>
           </value>
         </entry>
         <entry key="build_config">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/build_config-1.1.2/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/build_config-1.2.0/lib" />
             </list>
           </value>
         </entry>
@@ -70,28 +61,28 @@
         <entry key="build_resolvers">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/build_resolvers-2.5.4/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/build_resolvers-3.0.2/lib" />
             </list>
           </value>
         </entry>
         <entry key="build_runner">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/build_runner-2.5.4/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/build_runner-2.7.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="build_runner_core">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/build_runner_core-9.1.2/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/build_runner_core-9.3.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="build_test">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/build_test-2.2.3/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/build_test-3.3.2/lib" />
             </list>
           </value>
         </entry>
@@ -189,7 +180,6 @@
         <entry key="dart_style">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/dart_style-2.3.8/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/dart_style-3.1.2/lib" />
             </list>
           </value>
@@ -310,7 +300,7 @@
         <entry key="localization_builder">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/git/flutter_sheet_localization-1e07503e28c7f89cc52f026fed6ceb391a9e05ee/localization_builder/lib" />
+              <option value="$USER_HOME$/.pub-cache/git/flutter_sheet_localization-0d54fc8bf662c571e659114d455924c7a281d92c/localization_builder/lib" />
             </list>
           </value>
         </entry>
@@ -318,13 +308,6 @@
           <value>
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/logging-1.3.0/lib" />
-            </list>
-          </value>
-        </entry>
-        <entry key="macros">
-          <value>
-            <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/macros-0.1.3-main.0/lib" />
             </list>
           </value>
         </entry>
@@ -451,7 +434,7 @@
         <entry key="source_gen">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/source_gen-1.5.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/source_gen-3.1.0/lib" />
             </list>
           </value>
         </entry>
@@ -614,25 +597,23 @@
       </option>
     </properties>
     <CLASSES>
+      <root url="file://$USER_HOME$/.pub-cache/git/flutter_sheet_localization-0d54fc8bf662c571e659114d455924c7a281d92c/localization_builder/lib" />
       <root url="file://$USER_HOME$/.pub-cache/git/flutter_sheet_localization-0f955fe19c4851f88467dc362d478ac90bd861ae/template_string/lib" />
       <root url="file://$USER_HOME$/.pub-cache/git/flutter_sheet_localization-1e07503e28c7f89cc52f026fed6ceb391a9e05ee/flutter_sheet_localization/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/git/flutter_sheet_localization-1e07503e28c7f89cc52f026fed6ceb391a9e05ee/localization_builder/lib" />
       <root url="file://$USER_HOME$/.pub-cache/git/flutter_sheet_localization-1e07503e28c7f89cc52f026fed6ceb391a9e05ee/template_string/lib" />
       <root url="file://$USER_HOME$/.pub-cache/git/flutter_sheet_localization-ecbb6713ca36dc4b2fecf5575cc4e0cd3a57b7e2/template_string/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-76.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-88.0.0/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/analyzer-6.11.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/analyzer-8.1.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/args-2.7.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/async-2.13.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/boolean_selector-2.1.2/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/build-2.5.4/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/build_config-1.1.2/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/build-3.0.2/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/build_config-1.2.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/build_daemon-4.0.4/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/build_resolvers-2.5.4/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/build_runner-2.5.4/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/build_runner_core-9.1.2/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/build_test-2.2.3/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/build_resolvers-3.0.2/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/build_runner-2.7.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/build_runner_core-9.3.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/build_test-3.3.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/built_collection-5.1.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/built_value-8.11.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/characters-1.4.0/lib" />
@@ -646,7 +627,6 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/crypto-3.0.6/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/csslib-1.0.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/csv-6.0.0/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/dart_style-2.3.8/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/dart_style-3.1.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/equatable-2.0.7/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/file-7.0.1/lib" />
@@ -664,7 +644,6 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/js-0.7.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/json_annotation-4.9.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/logging-1.3.0/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/macros-0.1.3-main.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/matcher-0.12.17/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/material_color_utilities-0.11.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/meta-1.16.0/lib" />
@@ -682,7 +661,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/shelf_packages_handler-3.0.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/shelf_static-1.1.3/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/shelf_web_socket-3.0.0/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/source_gen-1.5.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/source_gen-3.1.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/source_map_stack_trace-2.1.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/source_maps-0.10.13/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/source_span-1.10.1/lib" />
@@ -704,7 +683,6 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/web_socket_channel-3.0.3/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/webkit_inspection_protocol-1.2.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/yaml-3.1.3/lib" />
-      <root url="file://$USER_HOME$/development/flutter/bin/cache/dart-sdk/pkg/_macros/lib" />
       <root url="file://$USER_HOME$/development/flutter/bin/cache/pkg/sky_engine/lib" />
       <root url="file://$USER_HOME$/development/flutter/packages/flutter/lib" />
     </CLASSES>
