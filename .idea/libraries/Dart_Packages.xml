@@ -6,6 +6,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-76.0.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-88.0.0/lib" />
             </list>
           </value>
         </entry>
@@ -20,6 +21,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/analyzer-6.11.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/analyzer-8.1.1/lib" />
             </list>
           </value>
         </entry>
@@ -188,6 +190,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/dart_style-2.3.8/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/dart_style-3.1.2/lib" />
             </list>
           </value>
         </entry>
@@ -222,7 +225,7 @@
         <entry key="flutter_sheet_localization">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/git/flutter_sheet_localization-ecbb6713ca36dc4b2fecf5575cc4e0cd3a57b7e2/flutter_sheet_localization/lib" />
+              <option value="$USER_HOME$/.pub-cache/git/flutter_sheet_localization-1e07503e28c7f89cc52f026fed6ceb391a9e05ee/flutter_sheet_localization/lib" />
             </list>
           </value>
         </entry>
@@ -278,6 +281,7 @@
         <entry key="intl">
           <value>
             <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/intl-0.20.2/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/intl-0.19.0/lib" />
             </list>
           </value>
@@ -306,7 +310,7 @@
         <entry key="localization_builder">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/git/flutter_sheet_localization-ecbb6713ca36dc4b2fecf5575cc4e0cd3a57b7e2/localization_builder/lib" />
+              <option value="$USER_HOME$/.pub-cache/git/flutter_sheet_localization-1e07503e28c7f89cc52f026fed6ceb391a9e05ee/localization_builder/lib" />
             </list>
           </value>
         </entry>
@@ -503,6 +507,8 @@
         <entry key="template_string">
           <value>
             <list>
+              <option value="$USER_HOME$/.pub-cache/git/flutter_sheet_localization-1e07503e28c7f89cc52f026fed6ceb391a9e05ee/template_string/lib" />
+              <option value="$USER_HOME$/.pub-cache/git/flutter_sheet_localization-0f955fe19c4851f88467dc362d478ac90bd861ae/template_string/lib" />
               <option value="$USER_HOME$/.pub-cache/git/flutter_sheet_localization-ecbb6713ca36dc4b2fecf5575cc4e0cd3a57b7e2/template_string/lib" />
             </list>
           </value>
@@ -608,11 +614,15 @@
       </option>
     </properties>
     <CLASSES>
-      <root url="file://$USER_HOME$/.pub-cache/git/flutter_sheet_localization-ecbb6713ca36dc4b2fecf5575cc4e0cd3a57b7e2/flutter_sheet_localization/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/git/flutter_sheet_localization-ecbb6713ca36dc4b2fecf5575cc4e0cd3a57b7e2/localization_builder/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/git/flutter_sheet_localization-0f955fe19c4851f88467dc362d478ac90bd861ae/template_string/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/git/flutter_sheet_localization-1e07503e28c7f89cc52f026fed6ceb391a9e05ee/flutter_sheet_localization/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/git/flutter_sheet_localization-1e07503e28c7f89cc52f026fed6ceb391a9e05ee/localization_builder/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/git/flutter_sheet_localization-1e07503e28c7f89cc52f026fed6ceb391a9e05ee/template_string/lib" />
       <root url="file://$USER_HOME$/.pub-cache/git/flutter_sheet_localization-ecbb6713ca36dc4b2fecf5575cc4e0cd3a57b7e2/template_string/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-76.0.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-88.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/analyzer-6.11.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/analyzer-8.1.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/args-2.7.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/async-2.13.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/boolean_selector-2.1.2/lib" />
@@ -637,6 +647,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/csslib-1.0.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/csv-6.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/dart_style-2.3.8/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/dart_style-3.1.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/equatable-2.0.7/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/file-7.0.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/fixnum-1.1.1/lib" />
@@ -648,6 +659,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/http_multi_server-3.2.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/http_parser-4.1.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/intl-0.19.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/intl-0.20.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/io-1.0.5/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/js-0.7.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/json_annotation-4.9.0/lib" />
